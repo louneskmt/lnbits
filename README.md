@@ -22,7 +22,7 @@ LNbits is a very simple Python server that sits on top of any funding source, an
 * Fallback wallet for the LNURL scheme
 * Instant wallet for LN demonstrations
 
-LNbits can run on top of any lightning-network funding source, currently there is support for LND, c-lightning, Spark, LNpay, OpenNode, lntxbot, with more being added regularily.
+The wallet can run on top of any lightning-network funding source, currently there is support for LND, c-lightning, Spark, LNpay, OpenNode, lntxbot, with more being added regularily.
 
 See [lnbits.org](https://lnbits.org) for more detailed documentation.
 
@@ -68,7 +68,7 @@ Wallets can be easily generated and given out to people at events (one click mul
 
 ![lnurl ATM](https://i.imgur.com/xFWDnwy.png)
 
-## Tip us
+## Tip me
 
 If you like this project and might even use or extend it, why not [send some tip love](https://lnbits.com/paywall/GAqKguK5S8f6w5VNjS9DfK)!
 
